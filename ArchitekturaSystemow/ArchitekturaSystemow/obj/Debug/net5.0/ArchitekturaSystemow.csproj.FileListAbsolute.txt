@@ -1,0 +1,16 @@
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\bin\Debug\net5.0\ArchitekturaSystemow.exe
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\bin\Debug\net5.0\ArchitekturaSystemow.deps.json
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\bin\Debug\net5.0\ArchitekturaSystemow.runtimeconfig.json
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\bin\Debug\net5.0\ArchitekturaSystemow.runtimeconfig.dev.json
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\bin\Debug\net5.0\ArchitekturaSystemow.dll
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\bin\Debug\net5.0\ref\ArchitekturaSystemow.dll
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\bin\Debug\net5.0\ArchitekturaSystemow.pdb
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\obj\Debug\net5.0\ArchitekturaSystemow.csproj.AssemblyReference.cache
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\obj\Debug\net5.0\ArchitekturaSystemow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\obj\Debug\net5.0\ArchitekturaSystemow.AssemblyInfoInputs.cache
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\obj\Debug\net5.0\ArchitekturaSystemow.AssemblyInfo.cs
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\obj\Debug\net5.0\ArchitekturaSystemow.csproj.CoreCompileInputs.cache
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\obj\Debug\net5.0\ArchitekturaSystemow.dll
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\obj\Debug\net5.0\ref\ArchitekturaSystemow.dll
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\obj\Debug\net5.0\ArchitekturaSystemow.pdb
+E:\Git Projekty\ArchitekturaSystemow\ArchitekturaSystemow\ArchitekturaSystemow\obj\Debug\net5.0\ArchitekturaSystemow.genruntimeconfig.cache
